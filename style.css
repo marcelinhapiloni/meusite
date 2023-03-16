@@ -1,0 +1,20 @@
+img{
+  position: absolute;
+width: 263px;
+height: 255px;
+left: 146px;
+top: 96px;
+
+background: url(gato.jpg);
+border-radius: 176.5px;
+}
+.menu{
+position: absolute;
+height: 61px;
+left: 636px;
+top: 193px;
+font-size: 54px;
+line-height: 64.8px;
+color: #BC8D85;
+
+}
