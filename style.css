@@ -1,20 +1,57 @@
 img{
   position: absolute;
-width: 263px;
-height: 255px;
-left: 146px;
-top: 96px;
+  width: 263px;
+  height: 255px;
+  left: 146px;
+  top: 96px;
 
-background: url(gato.jpg);
-border-radius: 176.5px;
+  background: url(gato);
+  border-radius: 176.5px;
 }
 .menu{
+  position: absolute;
+  height: 61px;
+  left: 700px;
+  top: 130px;
+
+  font-family: 'Italianno';
+  font-style: normal;
+  font-size: 72px;
+  line-height: 120px;
+
+  color: #BC8D85;
+}
+.menu1{
 position: absolute;
-height: 61px;
-left: 636px;
-top: 193px;
-font-size: 54px;
-line-height: 64.8px;
-color: #BC8D85;
+height: 60px;
+left: 950px;
+top: 270px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #C45A48;
+
+}
+.menu2{
+  position: absolute;
+height: 60px;
+left: 1280px;
+top: 270px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 60px;
+/* identical to box height */
+
+
+color: #C45A48;
 
 }
